@@ -1,4 +1,3 @@
-
 import sys
 from notebook import Notebook, Note
 
